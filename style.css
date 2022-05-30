@@ -1,0 +1,26 @@
+
+
+
+ul{
+    width: 100%;
+    color: rgb(177, 127, 224);
+    text-shadow: 12px 13px 14px rgb(0, 0, 0);
+    margin-bottom: 50%;
+    font-size: 40px;
+    
+  
+}
+li{
+    font-size: 45px;
+   
+}
+h1{
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    text-shadow: 12px 13px 14px rgb(6, 72, 111);
+    margin:20px;
+
+   
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
